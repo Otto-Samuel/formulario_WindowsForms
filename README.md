@@ -15,6 +15,6 @@
          <br />
          <sub><b>Otto Samuel</b></sub>
        </a>
-     </td>
-  </tr>
+     </td
+  </tr
 </table>
