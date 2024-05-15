@@ -2,12 +2,31 @@
 
  Programa criado em c#, que mostra um forms com 6 botões de escolha: <br>
   
-  1. Demostração key -> pega letra do teclado, imprimindo seu tipo, maiusculo e minusculo <br>
-  2. Valida cpf -> verifica as posições dos numeros e ver se o cpf é valido ou não<br>
-  3. Hello world -> modifica texto<br>
-  4. Valida cpf 2 -> valida cpf
-  5. Mascara -> ver o conteudo escrito
-  6. Validação de senha -> verifica a força da senha
+1. Demostração key ->
+          ```
+   pega letra do teclado, imprimindo seu tipo, maiusculo e minusculo
+          ```<br>
+  
+2. Valida cpf -> 
+         ```
+     verifica as posições dos numeros e ver se o cpf é valido ou não
+         ```<br>
+3. Hello world ->
+        ```
+    modifica texto
+         ```    <br>
+  5. Valida cpf 2 -> 
+         ```
+         valida cpf
+         ``` <br>
+  7. Mascara -> 
+         ```
+         ver o conteudo escrito
+         ``` <br>
+  9. Validação de senha -> 
+         ```
+         verifica a força da senha
+         ``` <br>
 ### 💻 tecnologias
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=C%23&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/visualstudio-%235C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=black)
