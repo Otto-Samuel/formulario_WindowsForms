@@ -6,7 +6,8 @@
   2. Valida cpf -> verifica as posições dos numeros e ver se o cpf é valido ou não<br>
   3. Hello world -> modifica texto<br>
   4. Valida cpf 2 -> valida cpf
-
+  5. Mascara -> ver o conteudo escrito
+  6. 
 ### 💻 tecnologias
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=C%23&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/visualstudio-%235C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=black)
