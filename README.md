@@ -2,8 +2,9 @@
 
  Programa criado em c#, que mostra um forms com 6 botões de escolha: <br>
   
-  1.  <br>
-  2. <br>
+  1. Demostração key -> pega letra do teclado, imprimindo seu tipo, maiusculo e minusculo <br>
+  2. Valida cpf -> <br>
+  3. <br>
 
 ### 💻 tecnologias
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=C%23&logoColor=black)
