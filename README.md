@@ -2,7 +2,7 @@
 
  Programa criado em c#, que mostra um forms com 6 botões de escolha: <br>
   
-  <p>1.</p>  
+  1. <br>
   2.
 
 ### 💻 tecnologias
