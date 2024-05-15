@@ -7,7 +7,7 @@
   3. Hello world -> modifica texto<br>
   4. Valida cpf 2 -> valida cpf
   5. Mascara -> ver o conteudo escrito
-  6. 
+  6. Validação de senha -> verifica a força da senha
 ### 💻 tecnologias
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=C%23&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/visualstudio-%235C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=black)
