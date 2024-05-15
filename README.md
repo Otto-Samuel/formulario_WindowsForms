@@ -1,6 +1,6 @@
  <h2 align="center">windows forms com C# </h1>
 
- Programa criado em c#
+ Programa criado em c#, que mostra um forms com 6 botões
 
 ### 💻 tecnologias
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=C%23&logoColor=black)
