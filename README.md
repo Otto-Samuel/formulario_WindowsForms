@@ -3,7 +3,7 @@
  Programa criado em c#, que mostra um forms com 6 botões de escolha: <br>
   
   1. Demostração key -> pega letra do teclado, imprimindo seu tipo, maiusculo e minusculo <br>
-  2. Valida cpf -> <br>
+  2. Valida cpf -> verifica as posições dos numeros e ver se o cpf é valido ou não<br>
   3. <br>
 
 ### 💻 tecnologias
