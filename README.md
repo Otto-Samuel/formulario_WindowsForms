@@ -32,7 +32,7 @@
 ![Static Badge](https://img.shields.io/badge/visualstudio-%235C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=black)
 
-### 🧑‍💻 autor 
+### 👨‍💻 desenvolvedor
 
 <table>
   <tr>
